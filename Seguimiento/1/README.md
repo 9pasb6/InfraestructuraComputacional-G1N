@@ -12,7 +12,7 @@
 
 
 2.	Después de crearlos se crea un documento por cada carpeta con el comando vim con su respectivos datos:
-     ### - Nombre, apellidos, estatura y rh.
+     ### - Nombre, Apellido, Estatura y Tipo de sangre.
 
 
 ## Mujeres 👩🏽
