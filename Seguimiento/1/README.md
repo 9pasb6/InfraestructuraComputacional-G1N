@@ -19,9 +19,6 @@
      * Tipo de sangre
 
 
-     - [ ] uno
-
-
 ## Mujeres 👩🏽
 
 ![mujer](https://user-images.githubusercontent.com/100176897/163726461-6d663508-017b-4a76-b404-534fb356d88a.png)
