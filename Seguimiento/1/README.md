@@ -16,7 +16,10 @@
      * Nombre
      * Apellido
      * Estatura
-     * Tipo de sangre.
+     * Tipo de sangre
+
+
+     - [ ] uno
 
 
 ## Mujeres 👩🏽
