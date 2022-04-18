@@ -18,6 +18,8 @@
      * Estatura
      * Tipo de sangre
 
+3. Para finalizar, con el comando ***cat*** leemos el contenido de cada archivo alojado en su directorio.
+
 
 ## Mujeres 👩🏽
 
