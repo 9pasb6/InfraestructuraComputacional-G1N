@@ -1,7 +1,7 @@
 # TALLER HERENCIA
 
  
-1. Se crean los directorios (abuelito, papa, nieto y abuelita, mama, nieta), por medio del comando mkdir.
+1. Se crean los directorios (abuelito, papa, nieto y abuelita, mama, nieta), por medio del comando ***mkdir***.
 
 
 
@@ -11,7 +11,7 @@
 
 
 
-2.	Después de crearlos se crea un documento por cada carpeta con el comando vim con su respectivos datos:
+2.	Después de crearlos se crea un documento por cada carpeta con el comando ***vim*** ó con el comando ***touch*** con su respectivos datos:
 
      * Nombre
      * Apellido
