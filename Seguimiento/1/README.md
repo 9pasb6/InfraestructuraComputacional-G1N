@@ -1,7 +1,5 @@
 
-Creación del archivo README.md by Columbus
 
-=======
 # TALLER HERENCIA
 
  
