@@ -1,1 +1,2 @@
-Creación del archivor README.md by Columbus
+Creación del archivo README.md by Columbus
+
