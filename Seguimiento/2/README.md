@@ -27,11 +27,16 @@
 -------------
 ## Comando tree 🌳
 
-4. Con el comando ***tree*** se visualiza la jerarquia de los archivos
+4. Con el comando ***tree*** se visualiza la jerarquia de los archivos.
 
 
+![WhatsApp Image 2022-04-24 at 10 05 55 PM](https://user-images.githubusercontent.com/100176897/165017522-9a29336c-4a92-41ea-9dbe-a62d890cebf3.jpeg)
 
+--------
 5) Finalmente movemos los archivos de cada una de los directorios originales a los directorios contrarios.
+
+
+![WhatsApp Image 2022-04-24 at 10 17 21 PM](https://user-images.githubusercontent.com/100176897/165017569-1c74558a-9144-471b-8bd6-de2a762dc05b.jpeg)
 
 
 
