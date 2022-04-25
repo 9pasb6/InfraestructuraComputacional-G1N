@@ -1,4 +1,4 @@
- # TALLER HERENCIA - comando CP y MV
+ # TALLER HERENCIA - MOVIMIENTO ENTRE DIRECTORIOS
 
  
 1. Se crean los directorios (Bisabuelo, Bisabuela, Bisnieto, Bisnieta), por medio del comando ***mkdir***.
@@ -11,7 +11,7 @@
 mal
 
 
-2. Se copian las carpetas Abuelito y Abuelita en sus respectivos directorios.
+2. Se copian los directorios Abuelito y Abuelita con el comando ***cp*** en sus respectivos directorios.
 
 ![arbol familiarr](https://user-images.githubusercontent.com/100176897/163726110-3b18750c-d567-4f1c-9c2e-87d7cec5999e.png)
 
@@ -19,7 +19,7 @@ mal
 
      
 
-3. Se mueven los directorios Bisnieta y Bisnieto a sus respectivas rutas.
+3. Con el comando ***mv*** se mueven los directorios Bisnieta y Bisnieto a sus respectivas rutas.
 
 
 ## Comando tree 🌳
