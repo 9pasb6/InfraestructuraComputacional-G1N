@@ -1,4 +1,4 @@
- # TALLER HERENCIA - MOVIMIENTO ENTRE DIRECTORIOS
+ # TALLER HERENCIA - MANIPULACIÓN DE ARCHIVOS
 
  
 1. Se crean los directorios (Bisabuelo, Bisabuela, Bisnieto, Bisnieta), por medio del comando ***mkdir***.
