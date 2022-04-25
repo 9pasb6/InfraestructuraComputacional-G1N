@@ -22,6 +22,8 @@
 
 3. Con el comando ***mv*** se mueven los directorios Bisnieta y Bisnieto a sus respectivas rutas.
 
+![WhatsApp Image 2022-04-24 at 9 52 42 PM](https://user-images.githubusercontent.com/100176897/165017333-d00b262d-7a36-45f2-9516-5abe9aecb827.jpeg)
+
 
 ## Comando tree 🌳
 
