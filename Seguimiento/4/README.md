@@ -1,5 +1,5 @@
  
-# Docker Desktop
+# Docker Desktop 🐳
 
 Se emplearán unas cuantas funcionalidades de Docker Desktop que nos podrá ayudar a correr nuestros contenedores y administrar nuestras imágenes. 
 
@@ -36,7 +36,7 @@ Ahora, el contenedor que esta ejecutando nuestra imagen spring boot, nos permite
 
 Bibliografía:
 
-https://www.youtube.com/watch?v=WlvxqJVn7OU
+https://www.youtube.com/watch?v=WlvxqJVn7OU   🧑‍💻
 
 https://www.docker.com/blog/kickstart-your-spring-boot-application-development/
 
