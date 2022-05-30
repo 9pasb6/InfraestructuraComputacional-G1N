@@ -1,5 +1,5 @@
  
-##Docker Desktop##
+# Docker Desktop
 
 Se emplearán unas cuantas funcionalidades de Docker Desktop que nos podrá ayudar a correr nuestros contenedores y administrar nuestras imágenes. 
 
@@ -11,19 +11,23 @@ Paso 2: abrir visual studio code, para visualizar el código descargado de Sprin
 
 Nota: asegurarse de tener Maven y java instalado en nuestro ordenador, este último con una versión posterior a la 17 
 
-COMPILAR CODIGO
+### COMPILAR CODIGO
 
 Generamos nuestro jar con el comando ./mvnw package, luego miramos en el target para verificar la creación de este, posteriormente leemos el Dockerfile-build, donde enviamos un argumento que el jar de la carptea target, donde lo que hace es copiar  el jar al contenedor y ejecutar la instrucción ENTRYPOINT.
 
 A  continuación ejecutamos el comando java -jar target/spring-boot-docker-0.0.1-SNAPSHOT.jar donde este empieza a  iniciar una aplicación en springboot.
 Para saber por cual puerto se inicia debemos mirar en el Tomcat started on ports: ###, con el propósito de verificar de que es el servicio correcto y que está funcionando.
 
-CREAR UNA IMAGEN
+-----------
+### CREAR UNA IMAGEN
+
 Creamos una imagen a través del DockerFile, con el comando Docker build -f Dockerfile-build -t nombreImagen .
 Con esto empezará a construir la imagen, para verificar la existencia de esta imagen empleamos el comando Docker image ls , luego ejecutamos la imagen creada en un contenedor a través del comando
 Docker run -p 8080:8080 -t spring-boot con esto estamos ejecutando spring desde el contenedor, con el comando Docker container ls podemos ver que se esta ejecutando un contenedor.
 
-ABRIR DOCKER
+-----------
+
+### ABRIR DOCKER
 
 En Docker podemos visualizar, sus variables de entorno, donde se encuentra java, sus argumentos y el comando que va ha ejecutar, donde podemos ejecutar un contenedor y ponerle el nombre que deseemos, como: mi_primer_contenedor_spring_boot y definir los puertos y volúmenes.
 
@@ -31,7 +35,10 @@ Ahora, el contenedor que esta ejecutando nuestra imagen spring boot, nos permite
 
 
 Bibliografía:
+
 https://www.youtube.com/watch?v=WlvxqJVn7OU
 
 https://www.docker.com/blog/kickstart-your-spring-boot-application-development/
+
+> by Columbus 👽
 
